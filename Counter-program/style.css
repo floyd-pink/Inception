@@ -1,0 +1,34 @@
+#h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 5em;
+}
+#div1 {
+    text-align: center;
+}
+
+#clabel {
+    padding: 10px 20px;
+    display: block;
+    font-style: normal;
+    font-size: 10rem; /* adjusted from 10em */
+    font-family:Helvetica;
+    text-align: center;
+  
+
+}
+.btn {
+    padding: 20px 10px;
+    font-size:1.5em;
+    color:white;
+    background-color: red;
+    border-radius:5px;
+    cursor:pointer;
+    transition:background-color o.25s;
+    transition: font-color 0.1ms;
+
+}
+.btn:hover{
+    background-color:pink;
+    color: green;
+}
