@@ -1,0 +1,44 @@
+#div {
+    text-align: center;
+    background-color: white; /* or remove one of the background-color lines */
+}
+
+.d {
+    text-align: center;
+    background-color: red;
+    color: green;
+}
+
+#o {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+#submit {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+#submit:hover {
+    background-color: rgb(39, 35, 35);
+    color: brown;
+}
+#op {
+    background-color: #007BFF;    
+    margin-top: 20px;/* space between tyo submit and output*/
+    border-radius: 40px;/* border ko curve lai */
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;  
+    max-width:250px; /*This is intresting you can try it maintain the blue border length */
+    margin-left: auto;
+
+    margin-right: auto;
+    
+
+}
